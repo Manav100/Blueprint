@@ -1,1 +1,1 @@
-# Blueprint
+# Box Class
